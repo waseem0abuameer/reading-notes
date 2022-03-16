@@ -1,0 +1,2 @@
+# How to: Read and write to a newly created data file Article
+The System.IO.BinaryWriter and System.IO.BinaryReader classes are used for writing and reading data other than character strings. The following example shows how to create an empty file stream, write data to it, and read data from it.
