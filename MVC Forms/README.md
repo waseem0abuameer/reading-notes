@@ -149,5 +149,5 @@ This is the easiest and quickest way to create forms in MVC.
 4. It is very clumsy when you need to add or remove some input items.
 
 
-## SUMMARY
+## gSUMMARY
 In this tutorial, you learned 4 different ways to create form and submit data to the controller. All these 4 ways used widely in MVC and I hope now you will be able to create a form in ASP.NET MVC. In the next chapter, you will learn FormCollection object in details with programming example. FormCollection objects make a job much easier when collecting form data into the controller.
