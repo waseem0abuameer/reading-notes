@@ -66,4 +66,4 @@ Graphs are extremely popular when it comes to it’s uses. Here are just a few e
 2. Driving Directions
 3. Social Networks
 4. Airline Traffic
-5. Netflix uses graphs for suggestions of products
+5. Netflix uses graphs for suggestions of productsg
